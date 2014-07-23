@@ -1,0 +1,9 @@
+{
+  "name": "npsampleplugin",
+  "version": "${FBSTRING_PLUGIN_VERSION}",
+  "description": "plugin to test",
+
+	"plugins": [
+    { "path": "npnpsampleplugin.dll", "public": true }
+  ]
+}
